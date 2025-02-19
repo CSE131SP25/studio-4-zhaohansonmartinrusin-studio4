@@ -17,6 +17,12 @@ public class Flag {
 		StdDraw.setPenRadius(.2);
 		StdDraw.setPenColor(168, 75, 250);
 		StdDraw.point(.15, .35);
+		StdDraw.setPenColor(155, 20, 220);
+		StdDraw.setPenRadius(.1);
+		StdDraw.point(.15, .35);
+		StdDraw.setPenRadius(.04);
+		StdDraw.setPenColor(168, 175, 250);
+		StdDraw.point(.15, .35);
 		StdDraw.setPenRadius(.2);
 		StdDraw.setPenColor(75, 148, 250);
 		StdDraw.point(.15, .5);
